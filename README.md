@@ -1,3 +1,3 @@
 # bqnovels
 download novels from bq
-	this project is for free
+    this project is for free
