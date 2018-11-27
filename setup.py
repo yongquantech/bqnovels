@@ -5,5 +5,5 @@ setup(
    version='0.1dev',
    packages=['bqnovels',],
    license='GPL', 
-   long_description=open('README.md').read(),
+   long_description=open('README.txt').read(),
 )

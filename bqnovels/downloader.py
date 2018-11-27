@@ -59,4 +59,4 @@ class NovelsDownloader():
 
 if __name__ == "__main__":
     dl = NovelsDownloader("一念永恒","1_1094")
-    print(dl.download_novel())
+    dl.download_novel()
