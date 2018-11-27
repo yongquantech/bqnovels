@@ -1,3 +1,6 @@
 # bqnovels
-download novels from bq
-    this project is for free
+Download novels from bq website  
+
+this modules dependends on:  
+- requests
+- BeautifulSoup
