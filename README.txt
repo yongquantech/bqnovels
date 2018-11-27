@@ -22,5 +22,5 @@ python setup install
             usage
 ---------------------------------------------
 import bqnovels
-dl = bqnovels.NovelsDownloader("一念永恒","1_1094")
+dl = bqnovels.NovelsDownloader("novel_name","novel_link_id")
 dl.download_novel()       
